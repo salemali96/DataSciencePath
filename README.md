@@ -22,7 +22,9 @@ Python
 
 Books
 •	Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures
+
 •	Storytelling with Data: A Data Visualization Guide for Business Professionals
+
 •	Data Visualization: A Practical Introduction
 
 Course
